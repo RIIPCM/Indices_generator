@@ -2,6 +2,10 @@
 
 Inconsistency matrix generator with Saaty scale with several indices
 
+For usage just use main_loop(int,int) function.
+First parameter is size of matrix and second parameter is number of generated matrices.
+
+
 **#Licence and usage**
 
 If you want to use this script in your scientific work, please cite the repository:
