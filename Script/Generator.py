@@ -2,7 +2,8 @@
 """
 Created on Fri Oct 01 10:57:25 2022
 
-@authors: Bartosz Kowal, Krzysztof Smalara, Jiri Mazurek
+@authors: Bartosz Kowal (1), Krzysztof Smalara(1), Jiri Mazurek(2)
+(1) Rzeszów University of Technology, (2) Silesian University in Opava
 
 #License
 Smalara, K., Kowal, B., Mazurek, J. (2022). Inconsistency matrix generator with Saaty scale with several indices. https://github.com/RIIPCM/Indices_generator
